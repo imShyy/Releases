@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <objects>
 	<object>
 		<name>client</name>
-		<path>https://raw.githubusercontent.com/imShyy/Releases/main/bin/Client-0.94.jar</path>
-		<checksum>fe1252dcdb6ef476dc386f7b817b2ae186f7c8eed3b1c92cb7d9f208ea7f061e</checksum>
+		<path>https://raw.githubusercontent.com/imShyy/Releases/main/bin/Client-0.95.jar</path>
+		<checksum>2a8b2213616415ff5d557b0e14bfff4b07131b2715b9d82942b228af905c7dd6</checksum>
 	</object>
 	<object>
 		<name>launcher</name>
 		<path>https://raw.githubusercontent.com/imShyy/Releases/main/Launcher.exe</path>
 		<checksum>dfca52ca0d4db57b6f82827a0b312db63b6601bcbcc84ea9fb57be3470ff3261</checksum>
 	</object>
-		<object>
+	<object>
 		<name>jre</name>
 		<path>https://raw.githubusercontent.com/imShyy/Releases/main/jre.zip</path>
 		<checksum>2769b15fede21596696cb3f3ef2fd0182ef22bc20844f69974f8629863b4cb82</checksum>
