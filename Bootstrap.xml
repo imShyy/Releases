@@ -2,8 +2,8 @@
 <objects>
 	<object>
 		<name>client</name>
-		<path>https://raw.githubusercontent.com/imShyy/Releases/main/bin/Client-0.96.jar</path>
-		<checksum>35f645d0bc2266b90b6f60f78d8866012b74dee4c49f29ced1081e44a02428af</checksum>
+		<path>https://raw.githubusercontent.com/imShyy/Releases/main/bin/Client-0.97.jar</path>
+		<checksum>50578bdd063dc3db0047df12b304f2abeee7ba0bc2dab98af4d8d42d6076da28</checksum>
 	</object>
 	<object>
 		<name>launcher</name>
