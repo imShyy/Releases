@@ -8,7 +8,7 @@
 	<object>
 		<name>launcher</name>
 		<path>https://raw.githubusercontent.com/imShyy/Releases/main/Launcher.exe</path>
-		<checksum>b15a834b41e3adedc4b0faf6daec1ee5e9b47d5b98b3acaffb833f1ff4e79df7</checksum>
+		<checksum>8c2d51a68363bed00829868f6b988733ba13384e14c3ffad99269585fc56571d</checksum>
 	</object>
 	<object>
 		<name>jre</name>
