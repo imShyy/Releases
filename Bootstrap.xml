@@ -3,7 +3,7 @@
 	<object>
 		<name>client</name>
 		<path>https://raw.githubusercontent.com/imShyy/Releases/main/bin/Client-1.0.jar</path>
-		<checksum>8c27c801e72221680f17f1b61d43c371f6b85e2600b320f2b899414cc761c923</checksum>
+		<checksum>41891e3b4296fd5dadb3ad7e8359611af0fa528f66fd0e5b473aad9ec39ffe69</checksum>
 	</object>
 	<object>
 		<name>launcher</name>
