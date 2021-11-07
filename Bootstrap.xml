@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <objects>
 	<object>
-		<name>client</name>
-		<path>https://raw.githubusercontent.com/imShyy/Releases/main/bin/Client-1.9.jar</path>
-		<checksum>6348d4f2b8f5e285bee5f424462c753161bbcad4431ee4f87fe3e5461f491281</checksum>
+		<name>binary32</name>
+		<path>https://raw.githubusercontent.com/imShyy/Releases/main/win-native_x86.zip</path>
+		<checksum>46634e55e2885057a9dafb5300f6bc735313845accb5db02db2dcb8b7382556f</checksum>
+	</object>
+	<object>
+		<name>binary64</name>
+		<path>https://raw.githubusercontent.com/imShyy/Releases/main/win-native_x64.zip</path>
+		<checksum>5b8e2a71a929c75f45f3c22f3e7bc64b6159fbc0568439dde1cb9d554bb7bc14</checksum>
 	</object>
 	<object>
 		<name>launcher</name>
 		<path>https://raw.githubusercontent.com/imShyy/Releases/main/Launcher.exe</path>
-		<checksum>8c2d51a68363bed00829868f6b988733ba13384e14c3ffad99269585fc56571d</checksum>
-	</object>
-	<object>
-		<name>jre</name>
-		<path>https://raw.githubusercontent.com/imShyy/Releases/main/jre.zip</path>
-		<checksum>2769b15fede21596696cb3f3ef2fd0182ef22bc20844f69974f8629863b4cb82</checksum>
+		<checksum>4e7467920a54f7ced0e9be3916b430c40f4203ae836fe75a59254f35d1561429</checksum>
 	</object>
 </objects>
