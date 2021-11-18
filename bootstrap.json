@@ -176,7 +176,7 @@
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/http-api-2.0.0.jar",
             "size": 158716,
             "name": "http-api-2.0.0.jar",
-            "hash": "799c4de9fce2c643d594788e596106e0d8883657ed9a1de02a12a8f710635db3"
+            "hash": "09700e5115874ea319bd850f9f70428625eca39c7fc86184446db41a2951c6fc"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/injection-annotations-1.0.jar",
@@ -348,15 +348,15 @@
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-api-2.0.0.jar",
-            "size": 1289980,
+            "size": 1290005,
             "name": "runelite-api-2.0.0.jar",
-            "hash": "8e1bbd215967ba0549cab71cf54f55bfebe86606de5d01caaf001bb07f1e9182"
+            "hash": "9398d9d16edfae16ae3b2ad10c64ceaf4836694ee843e6b2ba90f4deba066d2d"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-client-2.0.0.jar",
-            "size": 13716918,
+            "size": 13719697,
             "name": "runelite-client-2.0.0.jar",
-            "hash": "a9e5cbc59fa14a104ef309b9a6bfea64a8d2aa6b89c386a8fd2687d8b8e76907"
+            "hash": "541522ccb75a78db3fa6c01f83400e0ff7a4822a074d357ca4561a0591c758b0"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-jshell-2.0.0.jar",
@@ -366,9 +366,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runescape-api-2.0.0.jar",
-            "size": 113014,
+            "size": 113026,
             "name": "runescape-api-2.0.0.jar",
-            "hash": "44797316a28f6eb33e906b93223b4aa12a750597de2c25f381cce7d46b6767a3"
+            "hash": "8469d914ab970064070919b4e85370160b96db3ec26badbb47700d21a319b570"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/rxjava-3.1.1.jar",
