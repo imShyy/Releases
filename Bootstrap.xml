@@ -3,12 +3,12 @@
 	<object>
 		<name>binary32</name>
 		<path>https://raw.githubusercontent.com/imShyy/Releases/main/native-win32.zip</path>
-		<checksum>bed583a1930a5a0802b25a380a10c2709b0b39b9b023bc1371f8c3edea39f8e9</checksum>
+		<checksum>cf5469d166b9d2bebecc25cd9c5a155abc392d0548131306e67fdf43c63ba458</checksum>
 	</object>
 	<object>
 		<name>binary64</name>
 		<path>https://raw.githubusercontent.com/imShyy/Releases/main/native-win64.zip</path>
-		<checksum>679aa85002720bc1048e809bb78cb24d061b20de20b31c766c7115bfe4f03f52</checksum>
+		<checksum>72956ef9becb34b052e5d33f7ee0a472fe05c18189c3da11c4948efe9b1b81ce</checksum>
 	</object>
 	<object>
 		<name>launcher</name>
