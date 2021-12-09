@@ -354,15 +354,15 @@
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-api-2.0.0.jar",
-            "size": 1290220,
+            "size": 1290178,
             "name": "runelite-api-2.0.0.jar",
-            "hash": "dd486f4d108be6682da748aabddccc625d9e3f1c2e34021f948d609d5a656991"
+            "hash": "181fa4dc2c93ba19ec5409b748d913e3ee51e08a070ca501e892c672f702a42d"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-client-2.0.0.jar",
-            "size": 13763561,
+            "size": 13880278,
             "name": "runelite-client-2.0.0.jar",
-            "hash": "b1a705d178569573fee4942cc92ee7a54b4fcf062585304c4747c8cf1ce5f7b5"
+            "hash": "947e4d64a62e065ff2072e65d00c580131751d7e8613e90e39c9aef6ff0029a4"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-jshell-2.0.0.jar",
