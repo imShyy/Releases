@@ -383,10 +383,10 @@
             "hash": "8469d914ab970064070919b4e85370160b96db3ec26badbb47700d21a319b570"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/rxjava-3.1.1.jar",
-            "size": 2654191,
-            "name": "rxjava-3.1.1.jar",
-            "hash": "666dc6a2c70e8c7ef4da9921a3fe0715e5b8bf8bd3317a99fb46002a857c5e2d"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/rxjava-3.1.2.jar",
+            "size": 2654933,
+            "name": "rxjava-3.1.2.jar",
+            "hash": "8d784075bec0b7c55042c109a4de8923b3b6d2ebd2e00912d518f07240f9c23a"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/rxrelay-3.0.1.jar",
