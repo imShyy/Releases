@@ -180,9 +180,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/http-api-2.1.0.jar",
-            "size": 92259,
+            "size": 92260,
             "name": "http-api-2.1.0.jar",
-            "hash": "e2ed849f60a2d36472ebfbf4e8a8f6456d7acf8f8699de3e152337f68168c705"
+            "hash": "76bef949dff490a4653df07a776fe90f1a69500d5828f26cce6d8e8a0f28f0fa"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/injection-annotations-1.0.jar",
@@ -360,15 +360,15 @@
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-api-2.1.0.jar",
-            "size": 1292240,
+            "size": 1292258,
             "name": "runelite-api-2.1.0.jar",
-            "hash": "2ea2b7ee79e7ba7bc778c176d8e44c3c2ac4500e9379e6a6b8be3994b7682de9"
+            "hash": "a84496145465da8815b9d06351b978b7c56614331d3c60f48fbbdde02acb8294"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-client-2.1.0.jar",
-            "size": 13913011,
+            "size": 13913916,
             "name": "runelite-client-2.1.0.jar",
-            "hash": "de83f8b2c65deb77a33a12f23d2313384b0e79a2b082a5dfb7756f99a1ac0773"
+            "hash": "1c2bc100b6b2a5843ade51d79b362ba02593a512829cc763056867c00790ba19"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-jshell-2.1.0.jar",
@@ -378,9 +378,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runescape-api-2.1.0.jar",
-            "size": 114553,
+            "size": 114579,
             "name": "runescape-api-2.1.0.jar",
-            "hash": "8d26bb2569701e0c885e66a7d9bc703cb1883de9b2543faa06997fe22d41484b"
+            "hash": "7d8949adaf9021e4ba2f66781db2e529373f8bc677aa946c3d4ee2018b69c88a"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/rxjava-3.1.2.jar",
