@@ -366,9 +366,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-client-2.1.0.jar",
-            "size": 14087877,
+            "size": 14088297,
             "name": "runelite-client-2.1.0.jar",
-            "hash": "12cdbcf6a6f9d6c83c744a94773f549a95d3cd4aae855227855be2021397bb53"
+            "hash": "7441c7085f8f9693dc87dcf7be795dc3da0171f0f1a6c25d40c99af62f04d86c"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-jshell-2.1.0.jar",
