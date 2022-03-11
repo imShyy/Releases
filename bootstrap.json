@@ -174,9 +174,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/http-api-3.0.0.jar",
-            "size": 92259,
+            "size": 92260,
             "name": "http-api-3.0.0.jar",
-            "hash": "977d538fa5f40e909e6a86e37facc4f23b61ab99a2fe3e9441a29aca17ee62c9"
+            "hash": "0989da356b6b13ab9cc2d39850e24c266377e4f9e79de68a12097cac933c138d"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/injection-annotations-1.0.jar",
@@ -354,27 +354,27 @@
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-api-3.0.0.jar",
-            "size": 1302898,
+            "size": 1304177,
             "name": "runelite-api-3.0.0.jar",
-            "hash": "a2b7a7ae583d0e192641f852c92facd053ef398ef6531ac2a052edcbc6581e2e"
+            "hash": "5c603bc92bc4d4115847452191159169cbae35a9ac35c0225860db66f3a7e363"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-client-3.0.0.jar",
-            "size": 13452026,
+            "size": 13209527,
             "name": "runelite-client-3.0.0.jar",
-            "hash": "91af5ee5d80173362e85a1b0614a161aaa8f750f38101a04c9e0ee9ff870b819"
+            "hash": "6929775aa88014fadc2b01f01cab02eded3f1171e42e9b7cc4966b38c8757d2a"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-jshell-3.0.0.jar",
-            "size": 22972,
+            "size": 22974,
             "name": "runelite-jshell-3.0.0.jar",
-            "hash": "3a4a24b759c7833d150eb9e2d0707f9f172830c231285ba29e221ce4cfcd6501"
+            "hash": "ac832e29b5ee6dfeb4336cedb7d68a5bac44985ab294d94af34f513854e24426"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runescape-api-3.0.0.jar",
-            "size": 116297,
+            "size": 116872,
             "name": "runescape-api-3.0.0.jar",
-            "hash": "9c08d14da5dc2bda4707a45a8a7f20bd90b783996427f499e761b0a47659887b"
+            "hash": "0f6265bbc3e01afcc68415c892562e4e30e6b7ecb5ee07e39924a0e9ae996668"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/rxjava-3.1.2.jar",
