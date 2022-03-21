@@ -119,34 +119,34 @@
             "hash": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/gluegen-rt-2.4.0-rc-20200429-natives-linux-amd64.jar",
-            "size": 4332,
-            "name": "gluegen-rt-2.4.0-rc-20200429-natives-linux-amd64.jar",
-            "hash": "785f12e6c4242450ed5bcadc541288c9ec8a9b965ee6b5cae6bff2a2c65c1e35"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/gluegen-rt-2.4.0-rc-20220318-natives-linux-amd64.jar",
+            "size": 4583,
+            "name": "gluegen-rt-2.4.0-rc-20220318-natives-linux-amd64.jar",
+            "hash": "187ce9ddabfa7cd83447ccf9c166018aa7d2519c334942d91e33b3aaf24b53c7"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/gluegen-rt-2.4.0-rc-20200429-natives-windows-amd64.jar",
-            "size": 8696,
-            "name": "gluegen-rt-2.4.0-rc-20200429-natives-windows-amd64.jar",
-            "hash": "b02d1c1fa3184c977e04d4abc7c944676d0591fb363885762abc5e0ced7d0b92"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/gluegen-rt-2.4.0-rc-20220318-natives-macosx-universal.jar",
+            "size": 6924,
+            "name": "gluegen-rt-2.4.0-rc-20220318-natives-macosx-universal.jar",
+            "hash": "c4d42a4c2335b1a5eb6d56a871af9360184b2dd2a028e9b7b7bd8644f6975583"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/gluegen-rt-2.4.0-rc-20200429-natives-windows-i586.jar",
-            "size": 7526,
-            "name": "gluegen-rt-2.4.0-rc-20200429-natives-windows-i586.jar",
-            "hash": "337582d1ea47c240b1b58e65fdd904a2c9665e42abedf4fcf152bb669d9a3b8e"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/gluegen-rt-2.4.0-rc-20220318-natives-windows-amd64.jar",
+            "size": 8702,
+            "name": "gluegen-rt-2.4.0-rc-20220318-natives-windows-amd64.jar",
+            "hash": "1ab1e977c70bf8edbc519438619e9c317d285ef286eb95cd241546492ba0dc64"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/gluegen-rt-2.4.0-rc-20200429.jar",
-            "size": 360948,
-            "name": "gluegen-rt-2.4.0-rc-20200429.jar",
-            "hash": "f21532326c62b8371ffe5bb5c9cdb5ae2e1c73f4893e6212f34a005a3755a58f"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/gluegen-rt-2.4.0-rc-20220318-natives-windows-i586.jar",
+            "size": 7531,
+            "name": "gluegen-rt-2.4.0-rc-20220318-natives-windows-i586.jar",
+            "hash": "fc235e8164cbac2382053b850b10cd7cc971241b54b3f84410ff54edd71c852d"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/gluegen-rt-natives-macosx-2.4.0-rc-20210117.jar",
-            "size": 6539,
-            "name": "gluegen-rt-natives-macosx-2.4.0-rc-20210117.jar",
-            "hash": "b43354ca58de215423c57d428abc5c8467a1a5f0b00199aa52a67fb9729c70ef"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/gluegen-rt-2.4.0-rc-20220318.jar",
+            "size": 360949,
+            "name": "gluegen-rt-2.4.0-rc-20220318.jar",
+            "hash": "ba22a3338a3dea346801f5ae4a0341fc13f59bf4b02d54d575a6f0399a30e8b2"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/gson-2.8.5.jar",
@@ -245,34 +245,40 @@
             "hash": "126bde4a6be269579a84a67dfc7707fd2916e0eef11b74c4de7cc61a36d2420e"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/jogl-all-2.4.0-rc-20200429-natives-linux-amd64.jar",
-            "size": 244518,
-            "name": "jogl-all-2.4.0-rc-20200429-natives-linux-amd64.jar",
-            "hash": "4bad2ac72598f517f284b172827fcec591569dcf2a551b5315d58c6ddbbed94d"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/jogl-gldesktop-dbg-2.4.0-rc-20220318.jar",
+            "size": 293221,
+            "name": "jogl-gldesktop-dbg-2.4.0-rc-20220318.jar",
+            "hash": "12cb4a18958d3da1fb7def4800cd31a5a266e9da9ccbb6dca9efa1d1b9d953e0"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/jogl-all-2.4.0-rc-20200429-natives-windows-amd64.jar",
-            "size": 227080,
-            "name": "jogl-all-2.4.0-rc-20200429-natives-windows-amd64.jar",
-            "hash": "65512191409b98be8f435fc82dca5fe964ce79cdde5cdd09783144b5391893b2"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/jogl-rl-2.4.0-rc-20220318-natives-linux-amd64.jar",
+            "size": 133417,
+            "name": "jogl-rl-2.4.0-rc-20220318-natives-linux-amd64.jar",
+            "hash": "346dee2189c431fe99980c478e511f9465f26bd8aba4db4288010532fde116af"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/jogl-all-2.4.0-rc-20200429-natives-windows-i586.jar",
-            "size": 198922,
-            "name": "jogl-all-2.4.0-rc-20200429-natives-windows-i586.jar",
-            "hash": "e0fa809496961db1b1f840fead006a03357d1215b0464f54dd872081e2e6094b"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/jogl-rl-2.4.0-rc-20220318-natives-macosx-universal.jar",
+            "size": 307700,
+            "name": "jogl-rl-2.4.0-rc-20220318-natives-macosx-universal.jar",
+            "hash": "06da0e7e3c519b44c6ce510ff31ef5ade04a5f97f20461b2991dc55e373553c0"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/jogl-all-2.4.0-rc-20200429.jar",
-            "size": 3556304,
-            "name": "jogl-all-2.4.0-rc-20200429.jar",
-            "hash": "100e3c65ca864732f1616d575e114e1352e6bb5b073467d42acd4c4126cfca40"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/jogl-rl-2.4.0-rc-20220318-natives-windows-amd64.jar",
+            "size": 132196,
+            "name": "jogl-rl-2.4.0-rc-20220318-natives-windows-amd64.jar",
+            "hash": "e7636fef6e9edc9f2caad7a4d5ca748edcc7cecb9446b917e4e5f93241123f2c"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/jogl-all-natives-macosx-2.4.0-rc-20210117.jar",
-            "size": 466728,
-            "name": "jogl-all-natives-macosx-2.4.0-rc-20210117.jar",
-            "hash": "b79043af5a6f64704c1cf70264aa9acfdf8435baeb3b8196fbeb04a0192b0f41"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/jogl-rl-2.4.0-rc-20220318-natives-windows-i586.jar",
+            "size": 112944,
+            "name": "jogl-rl-2.4.0-rc-20220318-natives-windows-i586.jar",
+            "hash": "75029af713b9df5ecd47a818ef32eb0909a95bb0dde7514cd6dc73e82900ed13"
+        },
+        {
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/jogl-rl-2.4.0-rc-20220318.jar",
+            "size": 1217403,
+            "name": "jogl-rl-2.4.0-rc-20220318.jar",
+            "hash": "f36a1ddfaa92f9a8eae83a37627aebd22cd927ab9e5c7f0cfe778810757a7b1f"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/jopt-simple-5.0.4.jar",
@@ -360,9 +366,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-client-3.0.0.jar",
-            "size": 13231280,
+            "size": 13231322,
             "name": "runelite-client-3.0.0.jar",
-            "hash": "7db5642f81a07a303990e9dc0d767cccad006af110c5415ed7ba49563ede2bbc"
+            "hash": "bdb0b55a033e8b4befa237f1f2d7b7918ee18849a8bc8c8d4c96f3cc9bdd3446"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-jshell-3.0.0.jar",
