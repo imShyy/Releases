@@ -54,9 +54,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/client-1.8.27.1.jar",
-            "size": 6209710,
+            "size": 8320538,
             "name": "client-1.8.27.1.jar",
-            "hash": "d9ea93e49fd249b32c48fa5c089b4943cac6da08416090ad063b35b938840d76"
+            "hash": "ab81e0f4248a6e9028632f39b5550218e7bd294e1b077b6ed2825ac13a138594"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/client-patch-1.8.27.1.jar",
