@@ -245,22 +245,10 @@
             "hash": "3c3c608f97ce74bdfaa3af30fd026d5d8956280607e11dd1a0996fdb16eef6ef"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/runelite-api-1.8.26-runtime.jar",
-            "size": 241181,
-            "name": "runelite-api-1.8.26-runtime.jar",
-            "hash": "29d4060c48c10a9cda1c903de8b82c101e58b96d9e6a5a1b117dee2ff8ae9a3a"
-        },
-        {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/runelite-api-1.8.27-runtime.jar",
-            "size": 236166,
-            "name": "runelite-api-1.8.27-runtime.jar",
-            "hash": "068785da3808d8bf38b546286636257e15e2a0de0a4a037e0acd1961e78194e8"
-        },
-        {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/runelite-api-1.8.27.1-runtime.jar",
-            "size": 236170,
+            "size": 243080,
             "name": "runelite-api-1.8.27.1-runtime.jar",
-            "hash": "ec1fb90276290cb587735ab8739956ac1d602e91f807a77c603f4534ab003669"
+            "hash": "532c320c58c94cb96dd96dfdad719b8ad37dadedef4abc917deb786ddf03b667"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/slf4j-api-1.7.25.jar",
