@@ -347,6 +347,12 @@
             "hash": "79c9d6240cda82c3d31ee7a5722b635a3d37ad58c124a4db0ddea40145c30f45"
         },
         {
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/protobuf-javalite-3.21.1.jar",
+            "size": 701255,
+            "name": "protobuf-javalite-3.21.1.jar",
+            "hash": "101fd28d111ad1b95550ba45ab295cd1e8e8eb0676f66ed6705adba6042597ff"
+        },
+        {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/reactive-streams-1.0.3.jar",
             "size": 11369,
             "name": "reactive-streams-1.0.3.jar",
