@@ -17,7 +17,7 @@
         "--XX:CompileThreshold=1500",
         "-Djna.nosys=true"
     ],
-    "minimumLauncherVersion": "3.0.0",
+    "minimumLauncherVersion": "4.0.0",
     "clientJvm9Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Xmx1G",
@@ -38,7 +38,7 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Djna.nosys=true"
     ],
-    "projectVersion": "4.0.0",
+    "projectVersion": "3.0.0",
     "artifacts": [
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/annotations-22.0.0.jar",
@@ -372,9 +372,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-client-3.0.0.jar",
-            "size": 13345932,
+            "size": 13345883,
             "name": "runelite-client-3.0.0.jar",
-            "hash": "a2a2126aee1b94f2ad6e4c9324482615459dce00fa88c98338c638f6a03550cf"
+            "hash": "dad96559bf861aee7db4d3f3c592e88874245153bb9942307d83f298f8c42ed6"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/bin/runelite-jshell-3.0.0.jar",
