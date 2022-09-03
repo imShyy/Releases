@@ -17,7 +17,7 @@
         "--XX:CompileThreshold=1500",
         "-Djna.nosys=true"
     ],
-    "minimumLauncherVersion": "2.4.4",
+    "minimumLauncherVersion": "2.4.0",
     "clientJvm9Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Xmx1G",
@@ -38,7 +38,7 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Djna.nosys=true"
     ],
-    "projectVersion": "1.8.27.1",
+    "projectVersion": "1.8.33",
     "artifacts": [
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/aopalliance-1.0.jar",
@@ -53,22 +53,16 @@
             "hash": "ce932f3eeeb31021ae4d62108fdab23e18b7efd79833e4cd050e2d78d78c3347"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/client-1.8.27.1.jar",
-            "size": 8320538,
-            "name": "client-1.8.27.1.jar",
-            "hash": "ab81e0f4248a6e9028632f39b5550218e7bd294e1b077b6ed2825ac13a138594"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/client-1.8.33.jar",
+            "size": 6078850,
+            "name": "client-1.8.33.jar",
+            "hash": "cd9694f197fc3a33e95184f38e5ee3ecd2c0fbdc5ede35ad07406af771450b6b"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/client-patch-1.8.27.1.jar",
-            "size": 781646,
-            "name": "client-patch-1.8.27.1.jar",
-            "hash": "a07435ac122e42d79ceb18bc849a81916f0037240b55c5ad4f55f6213e4f64f5"
-        },
-        {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/commons-csv-1.4.jar",
-            "size": 39978,
-            "name": "commons-csv-1.4.jar",
-            "hash": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/client-patch-1.8.32.2.jar",
+            "size": 840068,
+            "name": "client-patch-1.8.32.2.jar",
+            "hash": "334cdcdcc8a7d0380e8e1605620278d394d9d09481683975dc6cc820ceb0025d"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/commons-lang3-3.7.jar",
@@ -89,18 +83,6 @@
             "hash": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/gluegen-rt-2.4.0-rc-20220318-natives-windows-i586.jar",
-            "size": 7531,
-            "name": "gluegen-rt-2.4.0-rc-20220318-natives-windows-i586.jar",
-            "hash": "fc235e8164cbac2382053b850b10cd7cc971241b54b3f84410ff54edd71c852d"
-        },
-        {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/gluegen-rt-2.4.0-rc-20220318.jar",
-            "size": 360949,
-            "name": "gluegen-rt-2.4.0-rc-20220318.jar",
-            "hash": "ba22a3338a3dea346801f5ae4a0341fc13f59bf4b02d54d575a6f0399a30e8b2"
-        },
-        {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/gson-2.8.5.jar",
             "size": 241622,
             "name": "gson-2.8.5.jar",
@@ -119,10 +101,10 @@
             "hash": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/http-api-1.0.10.jar",
-            "size": 43024,
-            "name": "http-api-1.0.10.jar",
-            "hash": "91dc5bba27af01d9b14e5d4b99b5d6b00247fb0a422acf49abb855f547137d28"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/http-api-1.1.1.jar",
+            "size": 44293,
+            "name": "http-api-1.1.1.jar",
+            "hash": "b6df7734e0deabed0fe224ec6cc8a34334beb62a544d3a94753bfe870204d0eb"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/javax.inject-1.jar",
@@ -147,18 +129,6 @@
             "size": 67704,
             "name": "jocl-1.0.jar",
             "hash": "126bde4a6be269579a84a67dfc7707fd2916e0eef11b74c4de7cc61a36d2420e"
-        },
-        {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/jogl-rl-2.4.0-rc-20220318-natives-windows-i586.jar",
-            "size": 112944,
-            "name": "jogl-rl-2.4.0-rc-20220318-natives-windows-i586.jar",
-            "hash": "75029af713b9df5ecd47a818ef32eb0909a95bb0dde7514cd6dc73e82900ed13"
-        },
-        {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/jogl-rl-2.4.0-rc-20220318.jar",
-            "size": 1217403,
-            "name": "jogl-rl-2.4.0-rc-20220318.jar",
-            "hash": "f36a1ddfaa92f9a8eae83a37627aebd22cd927ab9e5c7f0cfe778810757a7b1f"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/jopt-simple-5.0.1.jar",
@@ -245,10 +215,22 @@
             "hash": "3c3c608f97ce74bdfaa3af30fd026d5d8956280607e11dd1a0996fdb16eef6ef"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/runelite-api-1.8.27.1-runtime.jar",
-            "size": 243080,
-            "name": "runelite-api-1.8.27.1-runtime.jar",
-            "hash": "532c320c58c94cb96dd96dfdad719b8ad37dadedef4abc917deb786ddf03b667"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/runelite-api-1.8.32-runtime.jar",
+            "size": 234063,
+            "name": "runelite-api-1.8.32-runtime.jar",
+            "hash": "384db889328507b15a4e96cf081a21df0a2d7674cdc8e273d8f609eee24a708a"
+        },
+        {
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/runelite-api-1.8.32.1-runtime.jar",
+            "size": 234067,
+            "name": "runelite-api-1.8.32.1-runtime.jar",
+            "hash": "9fb99614a33e3facbbda8513588c225d590973cce2a7271fcffc82af8a191459"
+        },
+        {
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/runelite-api-1.8.32.2-runtime.jar",
+            "size": 234142,
+            "name": "runelite-api-1.8.32.2-runtime.jar",
+            "hash": "58ef45b04f64de0529f3977c47e0e2ad29c6eab5a5c41628aa5c34fa50b31ac4"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/slf4j-api-1.7.25.jar",
