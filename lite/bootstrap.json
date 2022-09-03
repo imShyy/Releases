@@ -38,7 +38,7 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Djna.nosys=true"
     ],
-    "projectVersion": "1.8.33",
+    "projectVersion": "1.8.32.2",
     "artifacts": [
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/aopalliance-1.0.jar",
@@ -53,9 +53,9 @@
             "hash": "ce932f3eeeb31021ae4d62108fdab23e18b7efd79833e4cd050e2d78d78c3347"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/client-1.8.33.jar",
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/client-1.8.32.2.jar",
             "size": 6078850,
-            "name": "client-1.8.33.jar",
+            "name": "client-1.8.32.2.jar",
             "hash": "cd9694f197fc3a33e95184f38e5ee3ecd2c0fbdc5ede35ad07406af771450b6b"
         },
         {
@@ -215,9 +215,9 @@
             "hash": "3c3c608f97ce74bdfaa3af30fd026d5d8956280607e11dd1a0996fdb16eef6ef"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/runelite-api-1.8.33-runtime.jar",
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/runelite-api-1.8.32.2-runtime.jar",
             "size": 235865,
-            "name": "runelite-api-1.8.33-runtime.jar",
+            "name": "runelite-api-1.8.32.2-runtime.jar",
             "hash": "1ffcf2e6ae347bda6d022ca96ee8e96499ad12a286dc474b8c9bc479404f96f8"
         },
         {
