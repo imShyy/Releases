@@ -38,7 +38,7 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Djna.nosys=true"
     ],
-    "projectVersion": "1.8.32.2",
+    "projectVersion": "1.9.0",
     "artifacts": [
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/aopalliance-1.0.jar",
@@ -53,16 +53,16 @@
             "hash": "ce932f3eeeb31021ae4d62108fdab23e18b7efd79833e4cd050e2d78d78c3347"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/client-1.8.32.2.jar",
-            "size": 6078850,
-            "name": "client-1.8.32.2.jar",
-            "hash": "cd9694f197fc3a33e95184f38e5ee3ecd2c0fbdc5ede35ad07406af771450b6b"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/client-1.9.0.jar",
+            "size": 6390653,
+            "name": "client-1.9.0.jar",
+            "hash": "711a03191a130bfda442de1cbc2626aae9fbcaf7756e0f4cc2853c33ad1fc77b"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/client-patch-1.8.32.2.jar",
-            "size": 840068,
-            "name": "client-patch-1.8.32.2.jar",
-            "hash": "334cdcdcc8a7d0380e8e1605620278d394d9d09481683975dc6cc820ceb0025d"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/client-patch-1.9.0.jar",
+            "size": 896946,
+            "name": "client-patch-1.9.0.jar",
+            "hash": "9a2e2ab7f9693fc023a24d61857c485850209d7e71a9b59640c66695790b774a"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/commons-lang3-3.7.jar",
@@ -101,10 +101,10 @@
             "hash": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/http-api-1.1.1.jar",
-            "size": 44293,
-            "name": "http-api-1.1.1.jar",
-            "hash": "b6df7734e0deabed0fe224ec6cc8a34334beb62a544d3a94753bfe870204d0eb"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/http-api-1.1.7.jar",
+            "size": 46243,
+            "name": "http-api-1.1.7.jar",
+            "hash": "dd11771d89d538e1fc0aa3c9e5d00ec547a7d0ecca349c0b81f2de81a792ce1e"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/javax.inject-1.jar",
@@ -215,10 +215,10 @@
             "hash": "3c3c608f97ce74bdfaa3af30fd026d5d8956280607e11dd1a0996fdb16eef6ef"
         },
         {
-            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/runelite-api-1.8.32.2-runtime.jar",
-            "size": 235865,
-            "name": "runelite-api-1.8.32.2-runtime.jar",
-            "hash": "1ffcf2e6ae347bda6d022ca96ee8e96499ad12a286dc474b8c9bc479404f96f8"
+            "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/runelite-api-1.9.0-runtime.jar",
+            "size": 234029,
+            "name": "runelite-api-1.9.0-runtime.jar",
+            "hash": "8865639ddc942695a67c4532c8523ee592b33351bb57ff56bb369012cb80ab69"
         },
         {
             "path": "https://raw.githubusercontent.com/imShyy/Releases/main/lite/bin/slf4j-api-1.7.25.jar",
